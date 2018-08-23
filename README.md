@@ -1,7 +1,7 @@
 # gitignore-cheatsheet
 ## .gitignore Cheatsheet
 
-1) Create file .gitignore
+1) Create .gitignore file in project folder
 
 2) Add command to git:
 `git add .gitignore`
