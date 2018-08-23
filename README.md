@@ -15,7 +15,7 @@ Ignore all files and subfolders [https://stackoverflow.com/a/5581995]
 !.gitignore
 ```
 
-Ignore all pictures. But ZZZEmpty.png is not ignore
+Ignore all pictures in folder. But ZZZEmpty.png is not ignore
 ```
 # Ignore all pictures in folder. But ZZZEmpty.png is not ignore
 /js/characters/img/*
