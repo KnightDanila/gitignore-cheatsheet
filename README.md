@@ -21,3 +21,5 @@ Ignore all pictures in folder. But ZZZEmpty.png is not ignore
 /js/characters/img/*
 !/js/characters/img/ZZZEmpty.png
 ```
+
+[https://gist.github.com/shaunlebron/746476e6e7a4d698b373]
