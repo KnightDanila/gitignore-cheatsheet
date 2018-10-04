@@ -22,6 +22,5 @@ Ignore all pictures in folder. But ZZZEmpty.png is not ignore
 !/js/characters/img/ZZZEmpty.png
 ```
 
-
-[https://guides.github.com/features/mastering-markdown/]  
-[https://gist.github.com/shaunlebron/746476e6e7a4d698b373]
+## Markdown-Cheatsheet
+[https://github.com/KnightDanila/markdown-cheatsheet/]  
