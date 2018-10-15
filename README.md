@@ -11,7 +11,7 @@
 Ignore all files and subfolders [https://stackoverflow.com/a/5581995]
 ```
 # Ignore all files. But .gitignore file is not ignore
-*
+/*
 !.gitignore
 ```
 
