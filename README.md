@@ -24,3 +24,8 @@ Ignore all pictures in folder. But ZZZEmpty.png is not ignore
 
 ## Markdown-Cheatsheet
 [https://github.com/KnightDanila/markdown-cheatsheet/]  
+
+
+
+https://www.jamescoyle.net/how-to/1094-ignoring-files-in-git-with-gitignore  
+https://github.com/github/gitignore
